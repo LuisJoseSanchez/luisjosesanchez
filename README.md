@@ -20,23 +20,23 @@ public class AboutMe {
 ### My books 📚
 
 <a href="https://leanpub.com/aprendejava/">
-  <img src="aprendejava.png">
+  <img width="150" src="aprendejava.png">
 </a>
 
 <a href="https://leanpub.com/gitygithub/">
-  <img src="gitygithub.jpg">
+  <img width="150" src="gitygithub.jpg">
 </a>
 
 <a href="https://luisjose.org/assets/descargas/linux/linux_practical_manual_31_07_2014_en.pdf">
-  <img src="linuxpracticalmanual.png">
+  <img width="150" src="linuxpracticalmanual.png">
 </a>
 
 ### My books in progress 🚧
 
 <a href="https://leanpub.com/aprendeionic/">
-  <img src="aprendeionic.png">
+  <img width="150" src="aprendeionic.png">
 </a>
 
 <a href="https://leanpub.com/apuntesdejavascriptdees6aes10">
-  <img src="apuntesdejavascript.jpg">
+  <img width="150" src="apuntesdejavascript.jpg">
 </a>
