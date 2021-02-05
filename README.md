@@ -8,7 +8,7 @@ I’m Luis José, a **Teacher and Full Stack Developer**. I have been CTO and co
 public class AboutMe {
   public static void main(String[] args) {
     final String ME = "Luis José Sánchez 🙋‍♂️";
-    final String[] LANGUAGES = {"Java", "Typescript", "Javascript", "PHP", "HTML", "CSS"};
+    final String[] LANGUAGES = {"Java", "Typescript", "Javascript", "PHP", "SQL", "HTML", "CSS"};
     final String[] FRAMEWORKS = {"Angular", "Ionic"};
     final String[] INTERESTS = {"Teaching 👨‍🏫", "Coding 💻", "Going to the gym 🏋️‍♂️", "cars 🚗 and motorbikes 🏍️", "Vegetarian food 🥑"};
     final String CONTACT = "https://www.linkedin.com/in/luisjosesanchez/";
