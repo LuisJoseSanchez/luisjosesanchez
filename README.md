@@ -24,19 +24,19 @@ public class AboutMe {
 </a>
 
 <a href="https://leanpub.com/gitygithub/">
-  <img width="150" src="gitygithub.jpg">
+  <img height="150" src="gitygithub.jpg">
 </a>
 
 <a href="https://luisjose.org/assets/descargas/linux/linux_practical_manual_31_07_2014_en.pdf">
-  <img width="150" src="linuxpracticalmanual.png">
+  <img height="150" src="linuxpracticalmanual.png">
 </a>
 
 ### My books in progress 🚧
 
 <a href="https://leanpub.com/aprendeionic/">
-  <img width="150" src="aprendeionic.png">
+  <img height="150" src="aprendeionic.png">
 </a>
 
 <a href="https://leanpub.com/apuntesdejavascriptdees6aes10">
-  <img width="150" src="apuntesdejavascript.jpg">
+  <img height="150" src="apuntesdejavascript.jpg">
 </a>
