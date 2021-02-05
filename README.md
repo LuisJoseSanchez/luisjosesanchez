@@ -10,7 +10,7 @@ public class AboutMe {
     final String ME = "Luis José Sánchez 🙋‍♂️";
     final String[] LANGUAGES = {"Java", "Typescript", "Javascript", "PHP", "HTML", "CSS"};
     final String[] FRAMEWORKS = {"Angular", "Ionic"};
-    final String[] INTERESTS = {"Teaching 👨‍🏫", "Coding 💻", "Going to the gym 🏋️‍♂️", "Vegetarian food 🥑"};
+    final String[] INTERESTS = {"Teaching 👨‍🏫", "Coding 💻", "Going to the gym 🏋️‍♂️", "cars 🚗 and motorbikes 🏍️", "Vegetarian food 🥑"};
     final String CONTACT = "https://www.linkedin.com/in/luisjosesanchez/";
   }
 }
