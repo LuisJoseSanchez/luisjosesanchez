@@ -1,6 +1,6 @@
 ### Hi there! 👋🏻
 
-I’m Luis José, a **Teacher and Full Stack Developer**. I have been CTO and co-founder of several tech companies. ⛰️ I'm always learning and looking for new challenges.
+I’m Luis José, a **Teacher and Full Stack Developer**. I have been CTO and co-founder of several tech companies. I'm always learning and looking for new challenges 🚀.
 
 ### About me 👨‍💻
 
