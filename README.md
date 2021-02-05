@@ -20,7 +20,7 @@ public class AboutMe {
 ### My books 📚
 
 <a href="https://leanpub.com/aprendejava/">
-  <img width="150" src="aprendejava.png">
+  <img height="150" src="aprendejava.png">
 </a>
 
 <a href="https://leanpub.com/gitygithub/">
