@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there! 👋🏻
 
-<!--
-**LuisJoseSanchez/luisjosesanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Luis José, a **Teacher and Full Stack Developer**. I have been CTO and co-founder of several tech companies. ⛰️ I'm always learning and looking for new challenges.
 
-Here are some ideas to get you started:
+### About me 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+public class AboutMe {
+  public static void main(String[] args) {
+    final String ME = "Luis José Sánchez 🙋‍♂️";
+    final String[] LANGUAGES = {"Java", "Typescript", "Javascript", "PHP", "HTML", "CSS"};
+    final String[] FRAMEWORKS = {"Angular", "Ionic"};
+    final String[] INTERESTS = {"Teaching 👨‍🏫", "Coding 💻", "Going to the gym 🏋️‍♂️", "Vegetarian food 🥑"};
+    final String CONTACT = "https://www.linkedin.com/in/luisjosesanchez/";
+  }
+}
+
+```
