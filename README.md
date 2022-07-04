@@ -19,6 +19,10 @@ public class AboutMe {
 
 ### My books 📚
 
+<a href="https://leanpub.com/mis-primeros-pasitos-con-angular">
+  <img height="150" src="misprimerospasitosconangular.jpg">
+</a>
+
 <a href="https://leanpub.com/aprendejava/">
   <img height="150" src="aprendejava.png">
 </a>
