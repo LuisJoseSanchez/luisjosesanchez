@@ -19,6 +19,10 @@ public class AboutMe {
 
 ### My books 📚
 
+<a href="https://www.amazon.es/Computer-Science-Word-Search-fundamentals/dp/B0CZF3CCG5/">
+  <img height="150" src="computer_science_word_search.jpg">
+</a>
+
 <a href="https://leanpub.com/mis-primeros-pasitos-con-angular">
   <img height="150" src="misprimerospasitosconangular.jpg">
 </a>
