@@ -19,27 +19,27 @@ public class AboutMe {
 
 ### My books 📚
 
-<a target="_blank" href="https://www.amazon.es/dp/B0DK38HCWR">
+<a href="https://www.amazon.es/dp/B0DK38HCWR">
   <img height="150" src="mis_primeros_pasitos_con_angular.jpg">
 </a>
 
-<a target="_blank" href="https://www.amazon.es/Computer-Science-Word-Search-fundamentals/dp/B0CZF3CCG5/">
+<a href="https://www.amazon.es/Computer-Science-Word-Search-fundamentals/dp/B0CZF3CCG5/">
   <img height="150" src="computer_science_word_search.jpg">
 </a>
 
-<a target="_blank" href="https://leanpub.com/aprendejava/">
+<a href="https://leanpub.com/aprendejava/">
   <img height="150" src="aprendejava.png">
 </a>
 
-<a target="_blank" href="https://leanpub.com/apirestnestjsmongodb">
+<a href="https://leanpub.com/apirestnestjsmongodb">
   <img height="150" src="nestjs.jpeg">
 </a>
 
-<a target="_blank" href="https://leanpub.com/gitygithub/">
+<a href="https://leanpub.com/gitygithub/">
   <img height="150" src="gitygithub.jpg">
 </a>
 
-<a target="_blank" href="https://luisjose.org/assets/descargas/linux/linux_practical_manual_31_07_2014_en.pdf">
+<a href="https://luisjose.org/assets/descargas/linux/linux_practical_manual_31_07_2014_en.pdf">
   <img height="150" src="linuxpracticalmanual.png">
 </a>
 
