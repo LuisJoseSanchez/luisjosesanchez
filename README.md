@@ -24,7 +24,7 @@ public class AboutMe {
 <a href="https://www.amazon.es/Computer-Science-Word-Search-fundamentals/dp/B0CZF3CCG5/"><img height="150" src="computer_science_word_search.jpg"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/apirestnestjsmongodb"><img height="150" src="nestjs.jpeg"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/gitygithub/"><img height="150" src="gitygithub.jpg"></a>&nbsp;&nbsp;
-<a href="https://luisjose.org/assets/descargas/linux/linux_practical_manual_31_07_2014_en.pdf"><img height="150" src="linuxpracticalmanual.png"></a>&nbsp;&nbsp;
+<a href="https://luisjose.com/assets/descargas/linux/linux_practical_manual_31_07_2014_en.pdf"><img height="150" src="linuxpracticalmanual.png"></a>&nbsp;&nbsp;
 
 <!--
 ### My books in progress 🚧
