@@ -19,24 +19,12 @@ public class AboutMe {
 
 ### My books 📚
 
-<a href="https://www.amazon.es/dp/B0DK38HCWR"><img height="150" src="portada_aprende_java_cinturon_blanco_273x400.png"></a>&nbsp;&nbsp;
-<a href="https://www.amazon.es/dp/B0DK38HCWR"><img height="150" src="mis_primeros_pasitos_con_angular.jpg"></a>
-
-<a href="https://www.amazon.es/Computer-Science-Word-Search-fundamentals/dp/B0CZF3CCG5/">
-  <img height="150" src="computer_science_word_search.jpg">
-</a>
-
-<a href="https://leanpub.com/apirestnestjsmongodb">
-  <img height="150" src="nestjs.jpeg">
-</a>
-
-<a href="https://leanpub.com/gitygithub/">
-  <img height="150" src="gitygithub.jpg">
-</a>
-
-<a href="https://luisjose.org/assets/descargas/linux/linux_practical_manual_31_07_2014_en.pdf">
-  <img height="150" src="linuxpracticalmanual.png">
-</a>
+<a href="https://www.amazon.es/dp/B0DT3XMF5C"><img height="150" src="portada_aprende_java_cinturon_blanco_273x400.png"></a>&nbsp;&nbsp;
+<a href="https://www.amazon.es/dp/B0DK38HCWR"><img height="150" src="mis_primeros_pasitos_con_angular.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.amazon.es/Computer-Science-Word-Search-fundamentals/dp/B0CZF3CCG5/"><img height="150" src="computer_science_word_search.jpg"></a>&nbsp;&nbsp;
+<a href="https://leanpub.com/apirestnestjsmongodb"><img height="150" src="nestjs.jpeg"></a>&nbsp;&nbsp;
+<a href="https://leanpub.com/gitygithub/"><img height="150" src="gitygithub.jpg"></a>&nbsp;&nbsp;
+<a href="https://luisjose.org/assets/descargas/linux/linux_practical_manual_31_07_2014_en.pdf"><img height="150" src="linuxpracticalmanual.png"></a>&nbsp;&nbsp;
 
 <!--
 ### My books in progress 🚧
