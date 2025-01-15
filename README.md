@@ -19,6 +19,10 @@ public class AboutMe {
 
 ### My books 📚
 
+<a href="https://www.amazon.es/dp/B0DK38HCWR"><img height="150" src="portada_aprende_java_cinturon_blanco_273x400.png"></a>
+
+&nbsp;&nbsp;
+
 <a href="https://www.amazon.es/dp/B0DK38HCWR">
   <img height="150" src="mis_primeros_pasitos_con_angular.jpg">
 </a>
